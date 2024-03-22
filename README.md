@@ -8,7 +8,7 @@
 - 📚 Senior Year Student
 - 💬 Ask me about **Web Development**
 - 🌱 I’m currently learning **MERN**
-- 📩 How to reach me [🔗 ](Jayashreesadangi000@gmail.com)
+- 📩 How to reach me (Jayashreesadangi000@gmail.com)
 - 📄 My Resume [🔗](https://drive.google.com/file/d/1pbrXe9FRkD7-Yoho_8RpDr2VKN3qLt7A/view?usp=drive_link)
 - 🤝 Connect With Me [🔗](https://drive.google.com/file/d/1pbrXe9FRkD7-Yoho_8RpDr2VKN3qLt7A/view?usp=drive_link)
 
