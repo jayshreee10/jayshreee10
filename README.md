@@ -6,7 +6,7 @@
 # 👩‍🎓 **About me** 
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px ></picture>
 
-- 🎓 Graduated 
+- 🎓 Graduated 24
 - 💬 Ask me about **Web Development**
 - 🌱 I’m currently learning **MERN**
 - 📩 How to reach me Jayashreesadangi000@gmail.com
