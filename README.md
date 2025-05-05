@@ -1,7 +1,4 @@
-<p align=""> <img src="https://komarev.com/ghpvc/?username=jayshreee10&label=Profile%20views&color=0e75b6&style=flat" alt="jayshreee10" /> </p>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=40&color=FFFFF&width=370&height=80&lines= <Hello World 👋🏻 />" alt="Typing SVG"/</a></p>   
+<p align=""> <img src="https://komarev.com/ghpvc/?username=jayshreee10&label=Profile%20views&color=0e75b6&style=flat" alt="jayshreee10" /> </p> 
 
 # 👩‍🎓 **About me** 
  <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px ></picture>
