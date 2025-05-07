@@ -7,7 +7,7 @@
 - 💬 Ask me about **Software Development**
 - 🌱 I’m currently learning **GoLang**
 - 📩 How to reach me Jayashreesadangi000@gmail.com
-- 📄 My Resume [🔗]([https://drive.google.com/file/d/1hIycOLzGAzeEDCa_eQwWQ-kizkM8c7FP/view?usp=drive_link](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing))
+- 📄 [My Resume](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing)
 - 🤝 Connect With Me [🔗](https://connect.jayshree.tech/)
 - 😄 Pronoun: She/Her
 <br>
