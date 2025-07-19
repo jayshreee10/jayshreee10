@@ -10,6 +10,7 @@
 - 📩 How to reach me Jayashreesadangi000@gmail.com
 - 📄 My Resume [🔗](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing)
 - 🤝 Connect With Me [🔗](https://connect.jayshree.tech/)
+- 🫆 Portfolio [🔗](https://www.jayshree.tech/)
 <br>
 
 
