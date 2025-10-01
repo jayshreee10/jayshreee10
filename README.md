@@ -1,12 +1,12 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=jayshreee10&label=Profile%20views&color=0e75b6&style=flat" alt="jayshreee10" /> </p> 
 
-# 👩‍🎓 **About me** 
+# **About me** 
 
 
 
 - 🎓 Graduated 2024
 - 💬 Ask me about **Software Development**
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently working on **Next + Nest**
 - 📩 How to reach me Jayashreesadangi000@gmail.com
 - 📄 My Resume [🔗](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing)
 - 🤝 Connect With Me [🔗](https://connect.jayshree.tech/)
