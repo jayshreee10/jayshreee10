@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayshreee10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=jayshreee10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>  
 
-# **About me**  
+# **About Me**  
 
-🎓 Graduated 2024  
+🎓 Graduated **2024**  
 💬 Ask me about **Software Development**  
-🌱 I’m currently working on <img src="https://skillicons.dev/icons?i=nextjs" height="20"/>  <img src="https://skillicons.dev/icons?i=nestjs" height="20"/>  
+🌱 Currently working on  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" height="25"/> <img src="https://skillicons.dev/icons?i=nestjs" height="25"/>  
 📩 Reach me at **Jayashreesadangi000@gmail.com**  
 📄 [My Resume](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing)  
 🤝 [Connect With Me](https://connect.jayshree.tech/)  
-🫆 [Portfolio](https://www.jayshree.tech/)  
-<br>
+🫶 [Portfolio](https://www.jayshree.tech/)  
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>  
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,javas,react,nextjs,tailwind,nodejs,express,nestjs,mysql,mongodb,git,docker,linux" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Skills**  
+
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,tailwind,nodejs,express,nestjs,mysql,mongodb,git,docker,linux" />
 </p>
