@@ -16,5 +16,5 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,nextjs,tailwind,nodejs,express,nestjs,mysql,mongodb,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,javas,react,nextjs,tailwind,nodejs,express,nestjs,mysql,mongodb,git,docker,linux" />
 </p>
