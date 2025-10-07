@@ -6,8 +6,7 @@
 
 🎓 Graduated **2024**  
 💬 Ask me about **Software Development**  
-🌱 Currently working on  
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" height="25"/> <img src="https://skillicons.dev/icons?i=nestjs" height="25"/>  
+🌱 Currently working on <img src="https://skillicons.dev/icons?i=nextjs" height="25"/> <img src="https://skillicons.dev/icons?i=nestjs" height="25"/>  
 📩 Reach me at **Jayashreesadangi000@gmail.com**  
 📄 [My Resume](https://drive.google.com/file/d/1mcCokxACjPUXJKhVfAnQW__m4HQRcBso/view?usp=sharing)  
 🤝 [Connect With Me](https://connect.jayshree.tech/)  
